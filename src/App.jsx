@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-    <div>
+    <div id='div1'>
     <h1>hello Everyone</h1>
     <h2>Your count: {x}</h2>
     <button onClick={addvalue}>Add</button>

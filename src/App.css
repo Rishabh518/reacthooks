@@ -1,8 +1,18 @@
 h1{
-    color: red;
+    color: rgb(84, 13, 197);
+    margin: 12px;
+}
+#div1{
+    border: 5px solid rgb(19, 13, 104);
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    box-shadow: 2px 3px 10px;
+    background-color: white;
 }
 div{
-    
     height: 50rem;
     display: flex;
     flex-direction: column;
@@ -12,3 +22,7 @@ div{
 button{
     margin: 0.5em;
 }
+h2{
+    text-align: center;
+}
+
